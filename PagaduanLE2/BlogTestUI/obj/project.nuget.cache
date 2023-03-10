@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A8NRHcz0XEXRlsMft2eNDgxlwC9WhkP1S2OrXROdSycRLbWcioINMj2IPi7b6k7+dHLStYiE5KzIV2rAOqB9Lw==",
+  "dgSpecHash": "JxZMYoQwkcoIs7aHVHBR4kKuJTEvvgTSoY10YR2Cd1fNe6u1qELpPVFld74tSKjG4hWoJDnkfYHKjHSqbFzTPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CARLOS PAGADUAN\\source\\repos\\PagaduanLE2\\BlogTestUI\\BlogTestUI.csproj",
+  "projectFilePath": "C:\\Users\\CARLOS PAGADUAN\\Source\\Repos\\pagaduan-IT128\\PagaduanLE2\\BlogTestUI\\BlogTestUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CARLOS PAGADUAN\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\CARLOS PAGADUAN\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

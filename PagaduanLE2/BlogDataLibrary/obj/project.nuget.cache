@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jr+vTTbV3TtEfEqLb9JI8/wxkHsnFeAK0LRgswuxcHGZ+CRYTvlnEsr+i3cwmSeShKjCEn2HvBFAxl5guEKOUw==",
+  "dgSpecHash": "KeEGLB2mm8SghQhLFGM9XggijZt+0fU7Ym5i3daSqWG04UX56BGVFK+iBf6AkzOxUk5tUYtp4sAjA+46IFxkrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CARLOS PAGADUAN\\source\\repos\\PagaduanLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
+  "projectFilePath": "C:\\Users\\CARLOS PAGADUAN\\Source\\Repos\\pagaduan-IT128\\PagaduanLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CARLOS PAGADUAN\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\CARLOS PAGADUAN\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

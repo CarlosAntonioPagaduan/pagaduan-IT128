@@ -688,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CARLOS PAGADUAN\\source\\repos\\PagaduanLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\CARLOS PAGADUAN\\Source\\Repos\\pagaduan-IT128\\PagaduanLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
       "projectName": "BlogDataLibrary",
-      "projectPath": "C:\\Users\\CARLOS PAGADUAN\\source\\repos\\PagaduanLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
+      "projectPath": "C:\\Users\\CARLOS PAGADUAN\\Source\\Repos\\pagaduan-IT128\\PagaduanLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
       "packagesPath": "C:\\Users\\CARLOS PAGADUAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CARLOS PAGADUAN\\source\\repos\\PagaduanLE2\\BlogDataLibrary\\obj\\",
+      "outputPath": "C:\\Users\\CARLOS PAGADUAN\\Source\\Repos\\pagaduan-IT128\\PagaduanLE2\\BlogDataLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CARLOS PAGADUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
