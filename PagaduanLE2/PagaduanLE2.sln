@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogDataLibrary", "BlogDataLibrary\BlogDataLibrary.csproj", "{706310F6-0F62-4B0D-A497-C5095919438D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogDataLibrary", "BlogDataLibrary\BlogDataLibrary.csproj", "{706310F6-0F62-4B0D-A497-C5095919438D}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "PagaduanBlogDB", "PagaduanBlogDB\PagaduanBlogDB.sqlproj", "{3E44C951-A8B5-4FD1-B80B-DCC513A3ECA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogTestUI", "BlogTestUI\BlogTestUI.csproj", "{B01752BE-0233-4537-B198-1597F2F9DFCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogTestUI", "BlogTestUI\BlogTestUI.csproj", "{B01752BE-0233-4537-B198-1597F2F9DFCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogAPI", "BlogAPI\BlogAPI.csproj", "{DBA2597C-80BC-435C-969D-6F0F9EF9FE1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{B01752BE-0233-4537-B198-1597F2F9DFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B01752BE-0233-4537-B198-1597F2F9DFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B01752BE-0233-4537-B198-1597F2F9DFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBA2597C-80BC-435C-969D-6F0F9EF9FE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA2597C-80BC-435C-969D-6F0F9EF9FE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA2597C-80BC-435C-969D-6F0F9EF9FE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA2597C-80BC-435C-969D-6F0F9EF9FE1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

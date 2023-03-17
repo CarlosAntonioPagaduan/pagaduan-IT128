@@ -8,3 +8,13 @@ C:\Users\CARLOS PAGADUAN\source\repos\PagaduanLE2\PagaduanBlogDB\obj\Debug\postd
 C:\Users\CARLOS PAGADUAN\source\repos\PagaduanLE2\PagaduanBlogDB\obj\Debug\predeploy.sql
 C:\Users\CARLOS PAGADUAN\source\repos\PagaduanLE2\PagaduanBlogDB\obj\Debug\PagaduanBlogDB.dll
 C:\Users\CARLOS PAGADUAN\source\repos\PagaduanLE2\PagaduanBlogDB\obj\Debug\PagaduanBlogDB.pdb
+C:\Users\CARLOS PAGADUAN\Downloads\PagaduanLE2\PagaduanBlogDB\bin\Debug\PagaduanBlogDB.dacpac
+C:\Users\CARLOS PAGADUAN\Downloads\PagaduanLE2\PagaduanBlogDB\bin\Debug\PagaduanBlogDB.dll
+C:\Users\CARLOS PAGADUAN\Downloads\PagaduanLE2\PagaduanBlogDB\bin\Debug\PagaduanBlogDB.pdb
+C:\Users\CARLOS PAGADUAN\Downloads\PagaduanLE2\PagaduanBlogDB\obj\Debug\PagaduanBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\CARLOS PAGADUAN\Downloads\PagaduanLE2\PagaduanBlogDB\obj\Debug\PagaduanBlogDB.dll
+C:\Users\CARLOS PAGADUAN\Downloads\PagaduanLE2\PagaduanBlogDB\obj\Debug\PagaduanBlogDB.pdb
+C:\Users\CARLOS PAGADUAN\Downloads\PagaduanLE2\PagaduanBlogDB\obj\Debug\Model.xml
+C:\Users\CARLOS PAGADUAN\Downloads\PagaduanLE2\PagaduanBlogDB\obj\Debug\refactor.xml
+C:\Users\CARLOS PAGADUAN\Downloads\PagaduanLE2\PagaduanBlogDB\obj\Debug\postdeploy.sql
+C:\Users\CARLOS PAGADUAN\Downloads\PagaduanLE2\PagaduanBlogDB\obj\Debug\predeploy.sql
