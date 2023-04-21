@@ -13,6 +13,18 @@ namespace BlogAPI
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+            var MyAllowSpecificOrigins = "allow";
+
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy(name: MyAllowSpecificOrigins, policy =>
+                {
+                    policy.WithOrigins("https://localhost:4200")
+                    .AllowAnyOrigin()
+                    .AllowAnyHeader()
+                    .AllowAnyMethod();
+                });
+            });
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -50,6 +62,7 @@ namespace BlogAPI
             app.UseAuthorization();
 
 
+            app.UseCors(MyAllowSpecificOrigins);
             app.MapControllers();
 
             app.Run();
